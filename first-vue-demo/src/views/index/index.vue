@@ -1,6 +1,6 @@
 <template>
     <div>
-        欢迎来到管理系统
+        欢迎来到xxx公司人员管理系统
         <footer-nav :class="{'isIndex':isNowPage}"></footer-nav>
     </div>
 </template>
